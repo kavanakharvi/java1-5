@@ -41,4 +41,6 @@ java 3b(5) :https://github.com/user-attachments/assets/682da77a-7ebc-42ff-ad2d-7
 
 java 3c(1) :https://github.com/user-attachments/assets/7aa06d95-4997-4414-bc28-c4e998d5718b
 
+java 3c(2) :https://github.com/user-attachments/assets/64d05f49-6e1f-4c6d-a9b8-ab1393045e45
+
 
