@@ -17,3 +17,4 @@ java 1c(1) :https://github.com/user-attachments/assets/a8c82af5-dc4e-444a-8c26-3
 
 java 1c(2) :https://github.com/user-attachments/assets/5288a893-d23e-4df9-87be-80b0a577c036
 
+java 1c(3) :https://github.com/user-attachments/assets/51c2f89a-7652-4f1f-b27d-54f3d54be5cc
