@@ -24,3 +24,6 @@ java 1c(4) :https://github.com/user-attachments/assets/2b14f5e1-5e32-4015-aa74-3
 java 1c(5) :https://github.com/user-attachments/assets/68d0fca5-7db7-4f9d-8b64-89f6c060e99d
 
 java 2a :https://github.com/user-attachments/assets/0e745bd7-8e5b-42cb-a817-ece406618ccb
+
+java 2b :https://github.com/user-attachments/assets/32483436-3b1f-4c49-be5f-cb8ce81ff815
+
