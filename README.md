@@ -15,4 +15,5 @@ java 1b(5) :https://github.com/user-attachments/assets/19f3f6ce-268f-4b0a-b66c-e
 
 java 1c(1) :https://github.com/user-attachments/assets/a8c82af5-dc4e-444a-8c26-3e0a72b479bf
 
+java 1c(2) :https://github.com/user-attachments/assets/5288a893-d23e-4df9-87be-80b0a577c036
 
