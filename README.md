@@ -33,5 +33,9 @@ java 3b(1) :https://github.com/user-attachments/assets/7cfeb3c8-6e1e-4f88-a153-2
 
 java 3b(2) :https://github.com/user-attachments/assets/b56d069e-3e85-4451-93e2-fab9ab7a1a5a
 
+java 3b(3) :https://github.com/user-attachments/assets/da3a5b76-b96f-415c-840b-39caa7ea20cf
+
+
+
 
 
